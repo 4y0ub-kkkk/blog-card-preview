@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of solution](./screenshot.jpg)
+![Screenshot of solution](images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add your GitHub repo link here](https://github.com/yourusername/blog-preview-card)
-- Live Site URL: [Add your live site link here](https://yourusername.github.io/blog-preview-card)
+- Solution URL: [Repo](https://github.com/4y0ub-kkkk/blog-card-preview)
+- Live Site URL: [The site](https://4y0ub-kkkk.github.io/blog-card-preview/)
 
 ## My process
 
